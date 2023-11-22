@@ -1,4 +1,4 @@
-# Políticas de Privacidad de [Nombre de la Aplicación]
+# Políticas de Privacidad de PDaily.
 
 En PDaily, nos comprometemos a proteger y respetar su privacidad. Esta aplicación ha sido desarrollada en colaboración con la Universidad Icesi y la Clínica Valle del Lili, y como tal, nuestras políticas de privacidad están alineadas con las establecidas por estas respetadas instituciones.
 
